@@ -1,0 +1,17 @@
+{
+    "name": "patrickhandsc-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Patrick Wagesreiter"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/patrickhandsc-bower.git"
+    },
+    "description": "Patrick Hand SC font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
